@@ -1,0 +1,2 @@
+- To start a local server:
+-> php -S localhost:port_number -t foleder_location
